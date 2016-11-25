@@ -1,0 +1,208 @@
+.navbar{
+	background: #fff;
+}
+a{
+	padding: 0;
+	margin: 0;
+}
+.nb1 div a:hover,.M_nav a:hover{
+	color:red;
+	text-decoration: none;
+}
+.ilogin ul li{
+	padding:0 8px;
+}
+.ilogin ul a{color:#555555;}
+.nb1 li a{
+	padding:0 4px;
+	margin:0 4px;
+	font-weight:500;
+	font-size:12px;
+	color:#555555;
+}
+.nb1 div a{
+	font-weight:500;
+	font-size:12px;
+	color:#555555;
+}
+
+.M_nav li{
+	float:left;	
+	padding:15px 5px;
+}
+
+.M_nav li a{
+	color:#555555;
+	font-size:12px;
+}
+.carousel-control i{
+	margin: 0 auto;
+	display: inline-block;
+	position: absolute;
+    top: 50%;
+    width: 45px;
+    height: 45px;
+    margin-top: -23px;
+}
+.l_i{
+	left: 20px;
+}
+.r_i{
+	right: 20px;
+}
+
+.item img{
+	width:100%;
+}
+
+.ty>span{
+	font: 26px/30px "Microsoft YaHei","微软雅黑", SimHei,helvetica, arial, verdana, tahoma, sans-serif;
+	color: #909090;
+	display: block;
+	line-height: 50px;
+
+}
+.ty>div{
+	margin-bottom: 15px;
+	padding-left: 0;
+}
+
+.ty div span a{
+	font-size: 14px;
+    font-family: "Microsoft YaHei","微软雅黑", helvetica, arial, verdana, tahoma, sans-serif;
+    text-decoration: none;
+    color: #555555;
+    line-height: 36px;
+}
+.ty div span{
+	width: 100%;
+	display: block;
+	height: 36px;
+	overflow: hidden;
+}
+.fenye{
+}
+.fenye ul{
+	margin-top: 50px;
+	float: none;
+	margin: 0 auto;
+	width: 225px;
+	display: block;
+}
+.lcont1{
+	margin-bottom: 	20px;
+}
+.lcont1>div{
+	width: 100%;
+	background: #f5f5f5;
+	margin: 20px 0;
+}
+.lcont1>div>span{
+	padding: 0 10px;
+    height: 22px;
+    line-height: 22px;
+    font-weight: bolder;
+    white-space: nowrap;
+    background: #909090;
+    color: #fff;
+    font-size: 12px;
+    font-family: arial,helvetica,verdana,tahoma,sans-serif;
+    height: 22px;
+    display: inline-block;	
+}
+.lcont1>span a{
+	font-size: 12px;
+    font-family: arial,helvetica,verdana,tahoma,sans-serif;
+    color: #555555;
+    margin-right: 20px;
+}
+.lcont1>span a:hover{
+	color: #cc3311;
+	text-decoration: none;
+}
+.musicrank>li{
+	margin-bottom: 20px;
+	position: relative;
+}
+.musicrank>li>a{
+	float: left;
+}
+.musicrank>li>span>a{
+	margin-left: 5px;
+	font-size: 14px;
+	text-decoration: none;
+    color: #555555;
+    line-height: 20px;
+    font-family: "Microsoft YaHei","微软雅黑",helvetica,arial,verdana,tahoma,sans-serif;
+}
+.musicrank>li>span{
+	color: #909090;
+    font-size: 12px;
+}
+.musicrank a:hover{
+	color: #cc3311;
+}
+.songer{
+	position: absolute;	
+	top: 0;
+	right: 	0;
+	background: #fff;
+}
+
+.footer a:hover,.f4 span a:hover{
+	color: #ff3c00;
+	text-decoration: none;
+}
+.f1 dt,.f1 dt a{
+	font-family: "Microsoft YaHei",helvetica,arial,sans-serif;
+	color:#909090;
+	font-weight:500;
+	font-size:12px;
+	margin-right: 10px;
+	height:24px;
+	line-height: 24px;
+}
+.f1 dd a,.f2 dd a,.f2 dd{
+	font-family: "Microsoft YaHei",helvetica,arial,sans-serif;
+	height:24px;
+	margin-right: 10px;
+	line-height: 24px;
+	font-size:12px;
+	color:#555;
+}
+.f3 ul{
+	display:block;
+	padding:0 120px;
+	margin:0 auto;
+}
+.f3 li{
+	float:left;
+}
+.f3 li a{
+	font-family: "Microsoft YaHei",helvetica,arial,sans-serif;
+	font-size:12px;
+	color:#333;
+	display:block;
+	text-align:center;
+	width:100px;
+	height:40px;
+	padding-left:40px;
+	margin-right:40px;
+}
+.f4 span{
+	display: block;
+	text-align: center;
+}
+.f4 span a{
+	color:#909090;
+}
+
+
+.toTop{
+	position: fixed;
+	right: 0;
+	bottom: 28px;
+	cursor: pointer;
+	width: 72px;
+	height: 144px;
+}
